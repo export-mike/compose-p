@@ -34,7 +34,7 @@ async function main() {
 		console.error(e);
 	}
 
-		try {
+	try {
 		const v = await getAll('ted');
 		console.log('result', v);
 	} catch (e) {
