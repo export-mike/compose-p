@@ -1,0 +1,22 @@
+{
+  "name": "compose-p",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+	"description": "Async await version of ramda's compose-p. Performs right-to-left composition of one or more Promise-returning functions. The rightmost function may have any arity; the remaining functions must be unary.",
+  "devDependencies": {
+    "ramda": "^0.24.1"
+  },
+	"author": {
+		"name": "Mike James",
+		"email": "m@mikejam.es",
+		"url": "https://github.com/export-mike"
+	},
+	"contributors": [
+		{ "name": "Cameron Burke", "email": "cameron2295@gmail.com", "url": "https://github.com/cameronbourke" },
+		{ "name": "Charles Lee", "email": "cc.lee@live.com.au", "url": "https://github.com/gwyneplaine" }
+	],
+	"scripts": {
+		"example": "node example.js"
+	}
+}
