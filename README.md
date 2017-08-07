@@ -3,7 +3,7 @@
 ```js
 /*
 *   Requires Node 8+
-*   Also Works in chrome, simply copy and paste into console.
+*   Also Works in chrome via webpack
 */
 
 
